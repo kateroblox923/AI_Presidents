@@ -8,7 +8,7 @@ import requests
 import re
 from elevenlabs import *
 
-set_api_key(confidential.elevenlabs_api_key)
+set_api_key(confidential.bba130e5909d509650d8414891aef5f8)
 
 Biden_voice = confidential.Biden_Voice
 
@@ -16,7 +16,7 @@ Trump_voice = confidential.Trump_Voice
 
 Obama_voice = confidential.Obama_Voice
 
-openai.api_key = confidential.openai_api_key
+openai.api_key = confidential.cJdrOOFSWITK2sgNDbIWT3BlbkFJXZtYfpOmCHP2ZFZgdrPm
 
 def func(description, num):
 
